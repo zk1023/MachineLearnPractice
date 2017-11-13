@@ -164,4 +164,4 @@ def testingNB():
     #打印输出结果
     print testEntry, 'classify as:', result[label]
 
-testingNB()
+testingNB()#hahaha
