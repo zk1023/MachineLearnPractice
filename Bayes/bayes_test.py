@@ -156,12 +156,13 @@ def testingNB():
     thisDoc = setOfWords2Vec(myVocabList, testEntry)
     # 测试文档2
     # testEntry = ['stupid', 'garbages']
+    # 将测试文档进行向量化
     # thisDoc = setOfWords2Vec(myVocabList, testEntry)
     #获取分类结果
     label = classifyNB(thisDoc, p0V, p1V, pAb)
     #设置结果标签
-    result = ['侮辱类文档','非侮辱类文档']
+    result = ['非侮辱类文档','侮辱类文档']
     #打印输出结果
     print testEntry, 'classify as:', result[label]
 
-testingNB()#hahaha
+testingNB()
