@@ -119,12 +119,12 @@ def trainNB0(trainMatrix, trainCategory):
         #类别为侮辱类文档
         if trainCategory[i] == 1:
             #统计侮辱类词向量
-            p1Num = p1Num + trainMatrix[i]
+            p1Num += trainMatrix[i]
             #统计侮辱类词条总数
             p1Denom += sum(trainMatrix[i])
         else:
             # 统计非侮辱类词向量
-            p0Num = p0Num + trainMatrix[i]
+            p0Num += trainMatrix[i]
             # 统计非侮辱类词条总数
             p0Denom += sum(trainMatrix[i])
     #计算侮辱类词条的条件概率（p(w|c)）
@@ -150,9 +150,9 @@ Modify:
     2017-11-13
 """
 def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
-    p1 = sum(vec2Classify*p1Vec)*pClass1
-    p0 = sum(vec2Classify*p0Vec)*(1.0 - pClass1)
-    if p1 >= p0:
+    p1 = sum(vec2Classify*p1Vec) + log(pClass1)
+    p0 = sum(vec2Classify*p0Vec) + log(1.0 - pClass1)
+    if p1 > p0:
         return 1
     else:
         return 0
