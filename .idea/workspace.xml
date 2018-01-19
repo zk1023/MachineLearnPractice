@@ -2,603 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7800982d-07f2-4ed2-bde5-58bb575c13c7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/svmClassify.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/svmTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/svmTest2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/svmTest3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_56.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_58.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_60.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_61.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_62.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_63.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_64.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_65.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_66.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_67.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_68.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_70.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_71.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_72.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_73.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_74.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_75.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_76.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_77.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_78.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_79.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_80.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_81.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_82.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_83.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_84.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_85.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_86.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_88.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_89.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_90.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_91.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_92.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_93.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_94.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_95.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/1_96.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_56.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_58.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_60.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_61.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_62.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_63.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_64.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_65.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_66.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_67.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_68.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_70.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_71.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_72.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_73.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_74.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_75.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_76.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_77.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_78.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_79.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_80.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_81.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_82.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_83.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_84.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_85.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_86.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_88.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testDigits/9_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testSetRBF.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/testSetRBF2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_100.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_101.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_102.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_103.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_104.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_105.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_106.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_107.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_108.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_109.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_110.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_111.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_112.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_113.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_114.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_115.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_116.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_117.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_118.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_119.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_120.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_121.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_122.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_123.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_124.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_125.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_126.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_127.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_128.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_129.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_130.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_131.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_132.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_133.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_134.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_135.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_136.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_137.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_138.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_139.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_140.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_141.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_142.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_143.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_144.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_145.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_146.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_147.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_148.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_149.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_150.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_151.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_152.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_153.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_154.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_155.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_156.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_157.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_158.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_159.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_160.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_161.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_162.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_163.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_164.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_165.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_166.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_167.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_168.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_169.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_170.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_171.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_172.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_173.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_174.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_175.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_176.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_177.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_178.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_179.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_180.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_181.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_182.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_183.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_184.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_185.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_186.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_187.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_188.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_189.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_190.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_191.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_192.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_193.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_194.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_195.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_196.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_197.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_56.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_58.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_60.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_61.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_62.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_63.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_64.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_65.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_66.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_67.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_68.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_70.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_71.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_72.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_73.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_74.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_75.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_76.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_77.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_78.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_79.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_80.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_81.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_82.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_83.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_84.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_85.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_86.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_88.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_89.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_90.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_91.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_92.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_93.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_94.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_95.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_96.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_97.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_98.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/1_99.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_100.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_101.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_102.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_103.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_104.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_105.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_106.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_107.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_108.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_109.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_110.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_111.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_112.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_113.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_114.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_115.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_116.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_117.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_118.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_119.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_120.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_121.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_122.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_123.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_124.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_125.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_126.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_127.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_128.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_129.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_130.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_131.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_132.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_133.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_134.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_135.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_136.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_137.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_138.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_139.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_140.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_141.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_142.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_143.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_144.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_145.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_146.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_147.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_148.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_149.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_150.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_151.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_152.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_153.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_154.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_155.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_156.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_157.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_158.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_159.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_160.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_161.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_162.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_163.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_164.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_165.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_166.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_167.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_168.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_169.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_170.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_171.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_172.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_173.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_174.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_175.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_176.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_177.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_178.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_179.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_180.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_181.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_182.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_183.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_184.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_185.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_186.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_187.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_188.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_189.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_190.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_191.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_192.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_193.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_194.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_195.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_196.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_197.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_198.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_199.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_200.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_201.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_202.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_203.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_56.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_58.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_60.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_61.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_62.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_63.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_64.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_65.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_66.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_67.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_68.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_70.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_71.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_72.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_73.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_74.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_75.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_76.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_77.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_78.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_79.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_80.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_81.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_82.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_83.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_84.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_85.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_86.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_88.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_89.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_90.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_91.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_92.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_93.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_94.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_95.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_96.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_97.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_98.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SVM/trainingDigits/9_99.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Utils/getData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kaggle/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kaggle/first.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -610,6 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MachineLearnPractice$skLearnClassify.coverage" NAME="skLearnClassify Coverage Results" MODIFIED="1511859554608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic" />
+    <SUITE FILE_PATH="coverage/MachineLearnPractice$first.coverage" NAME="first Coverage Results" MODIFIED="1514877614568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle" />
     <SUITE FILE_PATH="coverage/MachineLearnPractice$emailClassify.coverage" NAME="emailClassify Coverage Results" MODIFIED="1510973108810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bayes" />
     <SUITE FILE_PATH="coverage/MachineLearnPractice$svmTest2.coverage" NAME="svmTest2 Coverage Results" MODIFIED="1513513002185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
     <SUITE FILE_PATH="coverage/MachineLearnPractice$bayes_test.coverage" NAME="bayes_test Coverage Results" MODIFIED="1510842026470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bayes" />
@@ -625,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="svmTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="svmTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVM/svmTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1322">
-              <caret line="280" column="34" lean-forward="false" selection-start-line="280" selection-start-column="34" selection-end-line="280" selection-end-column="34" />
+            <state relative-caret-position="6588">
+              <caret line="248" column="40" lean-forward="false" selection-start-line="248" selection-start-column="40" selection-end-line="248" selection-end-column="40" />
               <folding>
                 <element signature="e#96#107#0" expanded="true" />
               </folding>
@@ -637,10 +43,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="first.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kaggle/first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="svmTest2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVM/svmTest2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="2646">
               <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="128" selection-end-column="16" />
               <folding>
                 <element signature="e#97#128#0" expanded="true" />
@@ -652,8 +68,8 @@
       <file leaf-file-name="svmTest3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVM/svmTest3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="198" column="8" lean-forward="true" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+            <state relative-caret-position="5265">
+              <caret line="198" column="8" lean-forward="false" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
               <folding>
                 <element signature="e#97#128#0" expanded="true" />
               </folding>
@@ -664,7 +80,7 @@
       <file leaf-file-name="svmClassify.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVM/svmClassify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2619">
+            <state relative-caret-position="2511">
               <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
               <folding>
                 <element signature="e#100#118#0" expanded="true" />
@@ -717,6 +133,7 @@
         <option value="$PROJECT_DIR$/SVM/svmTest2.py" />
         <option value="$PROJECT_DIR$/SVM/svmTest3.py" />
         <option value="$PROJECT_DIR$/SVM/svmClassify.py" />
+        <option value="$PROJECT_DIR$/kaggle/first.py" />
       </list>
     </option>
   </component>
@@ -726,7 +143,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="571" />
     <option name="y" value="127" />
     <option name="width" value="1199" />
@@ -747,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -757,18 +175,12 @@
             <path>
               <item name="MachineLearnPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearnPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="SVM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearnPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearnPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="kaggle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -796,7 +208,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.svmClassify">
+  <component name="RunManager" selected="Python.first">
+    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaggle/first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="svmClassify" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -811,24 +241,6 @@
       <module name="test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/svmClassify.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="svmTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/svmTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -888,19 +300,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.svmTest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.svmTest2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.svmTest3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.svmClassify" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.svmTest2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.svmTest3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.svmClassify" />
+      <item index="4" class="java.lang.String" itemvalue="Python.first" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.svmClassify" />
-        <item index="1" class="java.lang.String" itemvalue="Python.svmTest3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.svmTest2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.svmTest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.first" />
+        <item index="1" class="java.lang.String" itemvalue="Python.svmClassify" />
+        <item index="2" class="java.lang.String" itemvalue="Python.svmTest3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.svmTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -938,18 +350,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15582451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14750378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29109588" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29109588" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20034246" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3989726" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1028,20 +440,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Logistic/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bayes/emailClassify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bayes/advertisementClassify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4266">
@@ -1334,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8559">
           <caret line="317" column="0" lean-forward="false" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,15 +739,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="144" column="24" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="144" selection-end-column="24" />
-          <folding>
-            <element signature="e#25#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SVM/svmTest2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="2646">
           <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="128" selection-end-column="16" />
           <folding>
             <element signature="e#97#128#0" expanded="true" />
@@ -1362,14 +756,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SVM/svmTest3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="198" column="8" lean-forward="true" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+        <state relative-caret-position="5265">
+          <caret line="198" column="8" lean-forward="false" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
           <folding>
             <element signature="e#97#128#0" expanded="true" />
           </folding>
@@ -1378,7 +771,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SVM/svmClassify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2619">
+        <state relative-caret-position="2511">
           <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
           <folding>
             <element signature="e#100#118#0" expanded="true" />
@@ -1388,11 +781,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SVM/svmTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1322">
-          <caret line="280" column="34" lean-forward="false" selection-start-line="280" selection-start-column="34" selection-end-line="280" selection-end-column="34" />
+        <state relative-caret-position="6588">
+          <caret line="248" column="40" lean-forward="false" selection-start-line="248" selection-start-column="40" selection-end-line="248" selection-end-column="40" />
           <folding>
             <element signature="e#96#107#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1310655275/win32api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="402" column="58" lean-forward="true" selection-start-line="402" selection-start-column="58" selection-end-line="402" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
