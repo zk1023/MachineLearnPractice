@@ -6,10 +6,10 @@ def createDataSet():
     labels = ['A', 'A', 'B', 'B']
     return groups, labels
 jj = mat([[1, 2, 3, 0], [8, 8, 8, 8], [9, 1, 0, 4]])
-print jj.min(0)
-print jj.max(0)
+# print jj.min(0)
+# print jj.max(0)
 ranges = jj.max(0) - jj.min(0)
-print ranges
+# print ranges
 # print jj[:,0]
 # int = {'a':1, 'b':2, 'c':3}
 # print int['a']

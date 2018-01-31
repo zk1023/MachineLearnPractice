@@ -184,19 +184,19 @@ def innerL(i, oS):
             L = max(0, oS.alphas[i] + oS.alphas[j] - oS.C)
             H = min(oS.C, oS.alphas[i] + oS.alphas[j])
         if L == H:
-            print "L == H"
+            print ("L == H")
             return 0
         eta = 2.0 * oS.X[i,:] * oS.X[j,:].T - oS.X[i,:] * oS.X[i,:].T - oS.X[j,:] * oS.X[j,:].T
         if eta >= 0:
-            print "eta >= 0"
+            print ("eta >= 0")
             return 0
         oS.alphas[j] -= oS.labelMat[j] * (Ei - Ej) / eta
         oS.alphas[j] = clipAlpha(oS.alphas[j], H, L)
         updateEk(oS, j)
-        print oS.alphas[j]
-        print alphaJold
+        print (oS.alphas[j])
+        print (alphaJold)
         if abs(oS.alphas[j] - alphaJold) < 0.00001:
-            print "alpha_j changed too small"
+            print ("alpha_j changed too small")
             return 0
         oS.alphas[i] += oS.labelMat[j] * oS.labelMat[i] * (alphaJold - oS.alphas[j])
         updateEk(oS, i)
@@ -232,19 +232,19 @@ def smoP(dataMatIn, classLabels, C, toler, maxIter):
         if entireSet:
             for i in range(oS.m):
                 alphaPairsChanged += innerL(i, oS)
-                print "全体样本遍历：第%d次迭代 样本:%d， alpha优化次数:%d" % (iter, i, alphaPairsChanged)
+                print ("全体样本遍历：第%d次迭代 样本:%d， alpha优化次数:%d" % (iter, i, alphaPairsChanged))
             iter += 1
         else:
             nonBoundIs = np.nonzero((oS.alphas.A > 0) * (oS.alphas.A < C))[0]
             for i in nonBoundIs:
                 alphaPairsChanged += innerL(i, oS)
-                print "非边界遍历:第%d次迭代 样本:%d,alpha优化次数:%d" % (iter, i, alphaPairsChanged)
+                print ("非边界遍历:第%d次迭代 样本:%d,alpha优化次数:%d" % (iter, i, alphaPairsChanged))
             iter += 1
         if entireSet:
             entireSet =False
         elif alphaPairsChanged == 0:
             entireSet = True
-        print "迭代次数:%d" % iter
+        print ("迭代次数:%d" % iter)
     return oS.b, oS.alphas
 """
 函数说明：计算w
