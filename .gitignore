@@ -6,5 +6,7 @@
 .idea
 *.iml
 .idea/workspace.xml
+.idea/test.iml
+.idea/misc.xml
 out
 gen
