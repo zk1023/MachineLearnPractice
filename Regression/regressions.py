@@ -22,7 +22,7 @@ def standRegres(dataMat, labelMat):
     if np.linalg.det(xTx) == 0:
         print("矩阵为奇异矩阵，不能求逆")
         return
-    ws = xTx.I * dataMat.T * labelMat
+    ws = xTx.I * (dataMat.T * labelMat)
     return ws
 
 def plotRegression():
